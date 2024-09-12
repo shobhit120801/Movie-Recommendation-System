@@ -36,3 +36,11 @@ NLTK (Natural Language Toolkit): Used for text processing, particularly with the
 Porter Stemmer to standardize similar words.
 
 Jupyter Notebook: For interactive development and documentation.
+
+# Dataset
+
+The dataset consists of movie titles, descriptions, and other relevant metadata. The raw data undergoes several preprocessing steps to ensure it is in a format suitable for analysis and recommendation.
+
+# Link For Dataset
+
+https://drive.google.com/drive/folders/1bRx3J_DFxDu4nTpP_vywphGuPwpA3iyT?usp=sharing
