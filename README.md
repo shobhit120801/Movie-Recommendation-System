@@ -26,14 +26,15 @@ The system returns the **top 5 closest movies** based on the cosine similarity s
 - **Scikit-learn**: Provides tools for vectorization and calculating cosine similarity.
 - **NLTK (Natural Language Toolkit)**: Used for text processing, particularly with the Porter Stemmer to standardize similar words.
 - **Jupyter Notebook**: For interactive development and documentation.
+- **Request** : To request api for movie posters images or poster 
 
 ## Dataset
 The dataset consists of movie titles, descriptions, and other relevant metadata. The raw data undergoes several preprocessing steps to ensure it is in a format suitable for analysis and recommendation.
 
 
-## Fetching Movie Posters using API
+## Fetching Movie Posters using API Call
 
-You can fetch movie posters using **The Movie Database (TMDB) API** 
+Movie posters was fetched by using **The Movie Database (TMDB) API** and 
 
 ### Dataset Link
 [Movie Dataset](https://drive.google.com/drive/folders/1bRx3J_DFxDu4nTpP_vywphGuPwpA3iyT?usp=sharing)
